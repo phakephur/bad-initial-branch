@@ -5,4 +5,4 @@ some readme stuff
 added heading 2 stuff
 
 ## subheading
-subheading stuff in local
+subheading stuff in remote
