@@ -1,5 +1,5 @@
 # heading 1
-some readme stuff heading one text edited locally
+heading one text pasted into merge tool
 
 # heading 2
 added heading 2 stuff
