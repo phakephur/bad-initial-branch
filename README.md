@@ -1,5 +1,5 @@
 # heading 1
-some readme stuff
+heading one text edited in github
 
 # heading 2
 added heading 2 stuff
